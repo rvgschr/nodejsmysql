@@ -39,4 +39,5 @@ For å opprette en ny bruker, send en `POST` forespørsel til `/brukere`med føl
 ## Kjekt å vite
 Husk at du først må sette opp MYSQL. Her er et bilde av min MYSQL, men kom ikke lengre enn at jeg fikk brukt "brukere". 
 
-<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/chris-31/diagrams/nettbutikk/embed"></iframe>
+<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/chris-31/diagrams/nettbutikk/embed">
+</iframe>
