@@ -39,5 +39,5 @@ For å opprette en ny bruker, send en `POST` forespørsel til `/brukere`med føl
 ## Kjekt å vite
 Husk at du først må sette opp MYSQL. Her er et bilde av min MYSQL, men kom ikke lengre enn at jeg fikk brukt "brukere". 
 
-![drawSQL](https://drawsql.app/teams/chris-31/diagrams/nettbutikk)
-!
+![drawSQL](https://github.com/rvgschr/nodejsmysql/blob/main/2023-04-13%2004_56_44-KeyShowView.png)
+[https://drawsql.app/teams/chris-31/diagrams/nettbutikk](https://drawsql.app/teams/chris-31/diagrams/nettbutikk)
