@@ -9,14 +9,14 @@ Prosjektet er ikke helt ferdig enda, har ikke fått konsentrert meg om front end
 1. Klon repoet til din lokale maskin ved å kjøre `gh repo clone rvgschr/nodejsmysql`.
 2. Naviger inn i prosjektmappen med `cd prosjekt`.
 3. Installer nødvendig avhengigheter ved å kjøre `npm install`.
-4. Lag en `.env`fil og legg til konfigurasjonsvariabler som `DB_HOST`. `DB_USER`, `DB_PASSWORD` og `DB_NAME`.
+4. Lag en `.env` fil og legg til konfigurasjonsvariabler som `DB_HOST`. `DB_USER`, `DB_PASSWORD` og `DB_NAME`.
 5. Start applikasjonen ved å kjøre `npm run start`.
 
 ## Bruk
 
 Applikasjonen vil kjøre på http://localhost:3000. Endepunkter kan nåes via et HTTP-klientverktøy som f.eks. Postman.
 
-For å opprette en ny bruker, send en `POST` forespørsel til `/brukere`med følgende data i request-bodyen(raw):
+For å opprette en ny bruker, send en `POST` forespørsel til `/brukere` med følgende data i request-bodyen(raw):
 
 {
     "firstName": "Ola",
@@ -40,4 +40,5 @@ For å opprette en ny bruker, send en `POST` forespørsel til `/brukere`med føl
 Husk at du først må sette opp MYSQL. Her er et bilde av min MYSQL, men kom ikke lengre enn at jeg fikk brukt "brukere". 
 
 ![drawSQL](https://github.com/rvgschr/nodejsmysql/blob/main/2023-04-13%2004_56_44-KeyShowView.png)
+
 [https://drawsql.app/teams/chris-31/diagrams/nettbutikk](https://drawsql.app/teams/chris-31/diagrams/nettbutikk)
